@@ -1,1 +1,1 @@
-# PNC-ExerBit-App
+# ExerBit App
